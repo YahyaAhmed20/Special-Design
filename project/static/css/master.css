@@ -208,7 +208,7 @@ body {
 /*Start Landing page*/
 .landing-page {
   min-height: 100vh;
-  background-image: url("../images/Study1.jpg");
+  background-image: url(../images/Study1.jpg);
   background-size: cover;
   position: relative;
   transition: 5s;
@@ -758,11 +758,12 @@ body {
 
 .contact {
   min-height: 600px;
-  background-image: url("../images/contact.jpeg");
+  background-image: url('../images/contact.jpeg');
   background-size: cover;
   padding: 80px 0;
   position: relative;
 }
+
 
 .contact .overlay {
   position: absolute;
